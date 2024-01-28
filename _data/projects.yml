@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: InstaFilter
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+   url: "https://github.com/A-f-Adib/InstaFilter"
+  description: In this project i built an app that lets the user import photos from their library, then modify them using various image effects. Here i used Apples Core Image framework and one important framework UIKit.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
