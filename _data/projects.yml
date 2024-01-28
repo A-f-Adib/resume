@@ -26,6 +26,6 @@
 - project: CupCake Corner
   role: An online cake ordering app
   #duration: 2007 &mdash; Present
-  url: "https://github.com/A-f-Adib/MoonShot"
+  url: "https://github.com/A-f-Adib/CupcakeCorner"
   description: In this project i built a multi-screen app for ordering cupcakes. This is made with a couple of forms and protocols. In this app users can order normal and customized cup cakes from online. They can see how much to pay for each customized cakes.
 

@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Swift Programming
+  description: Proficient in Swift, the primary language for iOS development, with the ability to write clean and efficient code and a solid understanding of the language's syntax, features, and best practices.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: SwiftUI
+  description: Familiarity with SwiftUI, Apple's declarative UI framework, and an understanding of its fundamental concepts. Able to work on all SwiftUI components and views like NavigationView, ScrollView, TabView, ListView, Form, ect. Also have good understanding of animations, gestures, notifications, alerts, grid, contextmenu buttons and much more.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Swift Networking
+  description: Proficient in making network requests, handling responses, errors and integrating APIs using URLSession. Have a good knowledge in encode and decode data. Save the data in FileManager or cache memory and also fetch the data from there.
+
+
+- skill: Swift Networking
+  description: Proficient in m
