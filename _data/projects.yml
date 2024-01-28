@@ -2,8 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: InstaFilter.io
-  #role: Founder & Primary Developer
+- project: InstaFilter
+  role:  An image filter app
   #duration: 2012 &mdash; Present
    url: "https://github.com/A-f-Adib/InstaFilter"
   description: In this project i built an app that lets the user import photos from their library, then modify them using various image effects. Here i used Apples Core Image framework and one important framework UIKit.
