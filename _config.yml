@@ -1,6 +1,11 @@
 # Site settings
+<<<<<<< HEAD
 title: "A.F. Adib- Resume"
 description: "A resume of A.F. Adib"
+=======
+title: "A.F. Adib - Resume"
+description: "A resume for A.F. Adib."
+>>>>>>> 67a3d99cfd34a12a7810f6cfb86dea97d7789d7b
 
 # Build settings
 markdown: kramdown
@@ -11,14 +16,22 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "A.F. Adib"
+<<<<<<< HEAD
 resume_title:                   "VP of Global Communications"
+=======
+# resume_title:                   "VP of Global Communications"
+>>>>>>> 67a3d99cfd34a12a7810f6cfb86dea97d7789d7b
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "a.f.adib36@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "01788800392"
+<<<<<<< HEAD
 resume_contact_address:         " Central Road, Rangpur"
+=======
+resume_contact_address:         "Central Road, Rangpur"
+>>>>>>> 67a3d99cfd34a12a7810f6cfb86dea97d7789d7b
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
@@ -45,14 +58,21 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+<<<<<<< HEAD
   resume_github_url:            "https://github.com/jglovier/resume-template"
  # resume_twitter_url:           "http://twitter.com/jglovier"
  # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/A.f. Adib"
+=======
+  resume_github_url:            "https://github.com/A-f-Adib"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+>>>>>>> 67a3d99cfd34a12a7810f6cfb86dea97d7789d7b
   resume_linkedin_url:          "https://www.linkedin.com/in/a-f-adib-83113a2b1/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_website_url:           "http://joelglovier.com"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
