@@ -4,7 +4,7 @@
 # jazznotes.io
 - project: InstaFilter
   role:  An image filter app
-  #duration: 2012 &mdash; Present
+  duration: 2012 &mdash; Present
    url: "https://github.com/A-f-Adib/InstaFilter"
   description: In this project i built an app that lets the user import photos from their library, then modify them using various image effects. Here i used Apples Core Image framework and one important framework UIKit.
 
