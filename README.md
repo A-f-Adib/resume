@@ -1,8 +1,7 @@
-# Resume template
+# Resume 
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+*A simple GitHub Page resume *
 
-![img](images/screenshot.png)
 
 ## Docs
 
