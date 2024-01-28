@@ -23,7 +23,7 @@
   description: In this project i built an app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program. Users will also learn when the mission was executed and which astronauts were the members of that mission and some more informations about those astronauts.
 
 
-  - project: CupCake Corner
+- project: CupCake Corner
   role: An online cake ordering app
   #duration: 2007 &mdash; Present
   url: "https://github.com/A-f-Adib/MoonShot"
