@@ -9,8 +9,15 @@
   description: In this project i built an app that lets the user import photos from their library, then modify them using various image effects. Here i used Apples Core Image framework and one important framework UIKit.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: iMap
+  role: A location finder app
+  #duration: 2007 &mdash; Present
+  url: "https://github.com/A-f-Adib/iMap"
+  description: In this project i built an app that lets the user build a private list of places on the map that they intend to visit one day, they can also add a description for that place, can look up interesting places that are nearby, and save it all to the iOS storage for later.
+
+
+- project: MoonShot
+  role: A NASA’s Apollo space mission information app
+  #duration: 2007 &mdash; Present
+  url: "https://github.com/A-f-Adib/MoonShot"
+  description: In this project i built an app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program. Users will also learn when the mission was executed and which astronauts were the members of that mission and some more informations about those astronauts.
