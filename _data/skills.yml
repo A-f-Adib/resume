@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
 - skill: Swift Programming
-  description: Proficient in Swift, the primary language for iOS development, with the ability to write clean and efficient code and a solid understanding of the language's syntax, features, and best practices.
+  description: Proficient in Swift, the primary language for iOS development, with the ability to write clean and efficient code and a solid understanding of the language's syntax, features, and objects, class, functions, optionals, sturcts, enums, stateObject, environmentObject and much more.
 
 # Communications strategy
 - skill: SwiftUI
@@ -12,5 +12,32 @@
   description: Proficient in making network requests, handling responses, errors and integrating APIs using URLSession. Have a good knowledge in encode and decode data. Save the data in FileManager or cache memory and also fetch the data from there.
 
 
-- skill: Swift Networking
-  description: Proficient in m
+- skill: Core Data
+  description: Experience in utilizing Core Data for local data storage, retrieval, and management. Also have a strong knowledge of CoreImage, CoreLocation, Mapkit ect.
+
+
+- skill: IDE and Version Control
+  description: Proficient in using Xcode, Apple's integrated development environment. Experience with Git for version control and collaborative coding within development teams.
+
+- skill: Design Pattern
+  description: Knowledge of modern design patterns like MVVM (Model-View-ViewModel) for improved code organization and testability .
+
+
+- skill: Collaboration and Communication
+  description:  Strong communication skills and ability to collaborate with cross-functional teams, translating ideas into functional and user-friendly mobile applications. Ability to adapt to evolving project requirements and learn new technologies as needed.Effective time management skills to meet project deadlines and milestones.
+
+
+- skill: Other Languages
+  description: C, C++, SQL
+
+
+
+
+
+
+
+
+
+
+
+
