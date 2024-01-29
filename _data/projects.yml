@@ -29,3 +29,8 @@
   url: "https://github.com/A-f-Adib/CupcakeCorner"
   description: In this project i built a multi-screen app for ordering cupcakes. This is made with a couple of forms and protocols. In this app users can order normal and customized cup cakes from online. They can see how much to pay for each customized cakes.
 
+- project: To Do List
+  role: A task listing app
+  #duration: 2007 &mdash; Present
+  url: "https://github.com/A-f-Adib/ToDoList_App"
+  description: A to-do list is a list of items that need to be completed. The items on the list can range from simple activities like replying to an email, to more complex tasks like creating project briefs. In this project i built a to do list app that helps users to list their works need to be done and the works that have completed.
